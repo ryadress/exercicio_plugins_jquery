@@ -1,0 +1,26 @@
+.form-campo {
+    margin-bottom: 16px;
+}
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    border: none;
+    background-color: rgba(47, 47, 184, 0.372);
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+form button {
+    max-width: 120px;
+}
+
